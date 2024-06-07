@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zoe的生活雜記
-subtitle: Zoe都在這裡記錄生活的筆記
-description: Zoe撰寫
+title: Zoe'Blog
+subtitle: 歡迎來到Zoe的世界, 這是Zoe分享資訊的地方
+description: Zoe的學習分享
 keywords:
 author: Zoe Cheng
-language: en
+language: zh-TW
 timezone: ''
 
 # URL
